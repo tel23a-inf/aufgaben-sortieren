@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tel22a-inf/sorting/testhelpers"
+	"github.com/tel23a-inf/aufgaben-sortieren/testhelpers"
 )
 
 func TestBubbleUp(t *testing.T) {
