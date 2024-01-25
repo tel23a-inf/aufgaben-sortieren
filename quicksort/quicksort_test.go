@@ -3,7 +3,7 @@ package quicksort
 import (
 	"testing"
 
-	"github.com/tel22a-inf/sorting/testhelpers"
+	"github.com/tel23a-inf/aufgaben-sortieren/testhelpers"
 )
 
 func TestQuickSort(t *testing.T) {
